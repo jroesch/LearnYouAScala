@@ -6,7 +6,8 @@ This is a companion work to a talk I was giving on Scala, and all examples are p
 - [Scala's Webpage](www.scala-lang.org)
 
 ## References 
-Scala's reference's come in two flavors, mutable and immutable. The keywords ```var``` and ```val``` define these respectively. Variables in Scala are declared and defined at the same time. The only difference between the two is the mutablitity of the references themselves. ```var``` can be re-assigned to while ```val``` cannot.
+Scala's reference's come in two flavors, mutable and immutable. The keywords ```var``` and ```val``` define these respectively. Variables in Scala are declared and defined at the same time. The only difference between the two is the mutablitity of the references themselves. ```var``` can be re-assigned to while ```val``` cannot.  
+
 ```Scala
 /**
  * String Objects are immutable themselves we are just mutating the references here.
