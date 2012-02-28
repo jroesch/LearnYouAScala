@@ -1,7 +1,8 @@
 This is a companion work to a talk I was giving on Scala, and all examples are provided in the source tree. 
 
 # Introduction
-Scala is a powerful programming language that brings cutting edge language design to the JVM, many have found it to provide much the clarity, and power of dynamic languages while still having the performance of Java.
+>Scala is a general purpose programming language designed to express common programming >patterns in a concise, elegant, and type-safe way. It smoothly integrates features of >object-oriented and functional languages. It is also fully interoperable with Java.
+from the Scala site.
 ## References 
 Scala's reference's come in two flavors, mutable and immutable. The key word ```key```
 ## Literals 
