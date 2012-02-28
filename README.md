@@ -1,6 +1,7 @@
-This is a companion work to a talk I was giving on Scala, it provides examples as source in a SBT project, and this markdown file with written explanations of what is going on.
+This is a companion work to a talk I was giving on Scala, and all examples are provided in the source tree. 
 
 # Introduction
+Scala is a powerful programming language that brings cutting edge language design to the JVM, many have found it to provide much the clarity, and power of dynamic languages while still having the performance of Java.
 ## References 
 Scala's reference's come in two flavors, mutable and immutable. The key word ```key```
 ## Literals 
