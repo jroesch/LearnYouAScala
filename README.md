@@ -31,6 +31,25 @@ val octalLiteral: Int = 0377
 val decimalLiteral: Int = 255
 
 // String Literal
-val stringLiteral: String = ""
+val stringLiteral: String = "Hello World!\n" 
 ```
-## 
+
+## Classes and Objects  
+
+```Scala
+/**
+ * You can easily define classes in Scala in one line.
+ */
+ 
+ class A
+ 
+/**
+ * We can add data, and methods easily, and inherit with the extends keyword.
+ */
+ 
+ class A extends B {
+     val a: Int
+     def times5 = a * 5
+ }
+ 
+ val a = new A { val a = 5 } // => a: Int = 25
